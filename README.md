@@ -3,7 +3,9 @@
 meu nome é Jéssica Machado
 
 -estou estudando na alura
+
 -estou me desenvolvendo na linguagem juvascrpt
+
 utilizo esse espaco para minha organizacao e compartilhamento dos meus projetos desenvolvidos
 
 ### você pode entrar em contato comigo 📪
